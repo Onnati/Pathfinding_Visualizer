@@ -11,7 +11,7 @@
 
 ### PATH FINDING 
 
-- Dijikstra Algorithm
+- Dijkstra Algorithm
 
 
 ### Depth First Search and Breadth First Search
